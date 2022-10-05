@@ -1,5 +1,7 @@
 # Internal Medicine
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/Internal-Medicine?logo=github&label=Download)](https://github.com/MedPocket/Internal-Medicine/archive/refs/heads/main.zip)
+
 Internal medicine or general internal medicine (in Commonwealth nations) is the medical specialty dealing with the prevention, diagnosis, and treatment of internal diseases.
 Physicians specializing in internal medicine are called internists, or physicians (without a modifier) in Commonwealth nations.
 
